@@ -23,7 +23,7 @@ footer{
     background-attachment: fixed;
 }
 
-#aboutme{
+#aboutme, #projects, #contact{
     height: 500px;
 }
 
